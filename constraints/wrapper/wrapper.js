@@ -1,0 +1,9 @@
+exports.successValue = 'SUCCESS'
+exports.createValue = "CREATED"
+exports.failureValue = 'FAILURE'
+exports.notFound = 'NOT FOUND'
+exports.interError = 'INTERNAL ERROR'
+exports.successCode = 200
+exports.createCode = 201
+exports.failureCode = 400
+exports.notfoundCode = 404
